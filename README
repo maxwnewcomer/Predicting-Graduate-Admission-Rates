@@ -1,0 +1,21 @@
+README
+
+Programmer: Max Newcomer
+
+Data: 
+  Mohan S Acharya, Asfia Armaan, Aneeta S Antony: 
+  A Comparison of Regression Models for Prediction of Graduate Admissions, 
+  IEEE International Conference on Computational Intelligence in Data Science 2019
+
+Dependencies:
+  pandas
+  numpy
+  seaborn
+  scipy
+  sklearn
+  matplotlib
+  tqdm
+  ipyvolume
+  ipywidgets
+
+Screenshots of generated 3D graphs are looked in outputs
